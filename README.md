@@ -91,8 +91,8 @@ Contributions are welcome! To contribute:
 4. Open a pull request.
 
 ## Acknowledgments
-- **Prodigy Infotech** for providing the opportunity to work on this project.
-- **Ayush Thakur (Hunter001x)** for developing this tool.
+- **Learnex** for providing the opportunity to work on this project.
+- **Milan Khandelwal** for developing this tool.
 
 ## 📧 Contact
 For any questions or feedback, feel free to reach out:
