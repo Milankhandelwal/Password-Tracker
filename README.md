@@ -1,6 +1,6 @@
 # Password Strength Checker 🔐
 
-A Python-based tool to evaluate the strength of passwords. This project was developed as part of the Prodigy Infotech Internship by **Milan Khandelwal**.
+A Python-based tool to evaluate the strength of passwords. This project was developed as part of the LearneX Internship by **Milan Khandelwal**.
 
 ## Features
 - **Interactive Mode**: Enter passwords directly in the terminal for analysis.
