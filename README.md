@@ -96,7 +96,7 @@ Contributions are welcome! To contribute:
 
 ## 📧 Contact
 For any questions or feedback, feel free to reach out:
-- **GitHub**: https://github.com/Milankhandelwal/Password-Tracker/edit/main/README.md
+- **GitHub**: https://github.com/Milankhandelwal/Password-Tracker
 
 
 ## License
