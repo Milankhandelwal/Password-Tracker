@@ -1,6 +1,6 @@
 # Password Strength Checker 🔐
 
-A Python-based tool to evaluate the strength of passwords. This project was developed as part of the Prodigy Infotech Internship by **Ayush Thakur (Hunter001x)**.
+A Python-based tool to evaluate the strength of passwords. This project was developed as part of the Prodigy Infotech Internship by **Milan Khandelwal**.
 
 ## Features
 - **Interactive Mode**: Enter passwords directly in the terminal for analysis.
@@ -21,7 +21,7 @@ A Python-based tool to evaluate the strength of passwords. This project was deve
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Hunter001x/password-strength-checker.git
+   git clone https://github.com/Milankhandelwal/Password-Tracker/git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -71,8 +71,8 @@ The tool displays the following banner upon execution:
 |_|   \__,_|___/___/ \_/\_/ \___|\__,_|\___/|_|     \____|_| |_|\___|\___|_|\_\___|_|   
                                                                                        
 ==========================================================================================
-            Password Strength Checker - Prodigy Infotech Internship
-                Developed by: Ayush Thakur (Hunter001x) 🔐
+            Password Strength Checker - LearneX Internship
+                Developed by: Milan Khandelwal 🔐
 ==========================================================================================
 ```
 
@@ -96,11 +96,11 @@ Contributions are welcome! To contribute:
 
 ## 📧 Contact
 For any questions or feedback, feel free to reach out:
-- **GitHub**: [Hunter001x](https://github.com/aayushthakur001)
+- **GitHub**: https://github.com/Milankhandelwal/Password-Tracker/edit/main/README.md
 
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
 ## Author
-Developed by **Ayush Thakur (Hunter001x)** as part of the Prodigy Infotech Internship.
+Developed by **Milan Khandelwal** as part of the Prodigy Infotech Internship.
