@@ -103,4 +103,4 @@ For any questions or feedback, feel free to reach out:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
 ## Author
-Developed by **Milan Khandelwal** as part of the Prodigy Infotech Internship.
+Developed by **Milan Khandelwal** as part of the LearneX Internship.
